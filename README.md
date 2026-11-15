@@ -67,10 +67,22 @@ Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta c
 
 ---
 
-### 📊 Actividad
+### 📊 Métricas y actividad
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="500"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alivdsenior-cpu&theme=dark&hide_border=true&background=0a0510&ring=ec4899&fire=ec4899&currStreakLabel=f472b6" />
+</p>
+
+---
+
+### 🐶 Perritos cibernautas
+
+<p align="center">
+  <img src="./dogs.svg" width="100%" alt="perritos cibernautas"/>
 </p>
 
 ---
@@ -82,4 +94,5 @@ Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta c
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:4a044e,100:000000&height=120&section=footer" width="100%"/>
 </p>
+
 
