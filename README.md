@@ -11,12 +11,12 @@
 
 ---
 
-# ¡Hola! Soy Alicia Viviana Valderrama Siempira 💖
-### Desarrolladora Full-Stack Políglota · Backend · Bases de datos · Infraestructura · `ella/su`
+# Hi, I'm Alicia Viviana Valderrama Siempira 💖
+### Polyglot Full-Stack Developer · Backend · Databases · Infrastructure · `she/her`
 
-Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta correcta para cada problema, no la de siempre. Me muevo cómodamente entre el **backend**, el **frontend**, las **bases de datos** y la **infraestructura**. Escribo código que escala, que se lee, y que no me avergüenza mostrar.
+Full-stack developer with a **polyglot** mindset — I pick the right tool for each problem, not the usual one. I move comfortably across the **backend**, the **frontend**, **databases** and **infrastructure**. I write code that scales, that reads well, and that I'm not ashamed to show.
 
-🌐 **[umbral.network](https://umbral.network/)** · 📍 Remoto / Mundial
+🌐 **[umbral.network](https://umbral.network/)** · 📍 Remote / Worldwide
 
 <p align="center">
   <img src="./world.svg" width="100%" alt="late-night commits and cocktails"/>
@@ -24,7 +24,7 @@ Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta c
 
 ---
 
-### 🛠️ Arsenal Técnico
+### 🛠️ Technical Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -47,27 +47,27 @@ Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta c
   <img src="https://img.shields.io/badge/Malbolge-be185d?style=flat-square" />
 </p>
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
-| **Lenguajes** | Python, Java, TypeScript, Go, Rust, C++, Haskell, Lisp / Clojure, Elixir / Erlang, Pascal |
+| **Languages** | Python, Java, TypeScript, Go, Rust, C++, Haskell, Lisp / Clojure, Elixir / Erlang, Pascal |
 | **Backend & Web** | Ruby on Rails, TypeScript, Tailwind CSS |
-| **Bases de datos** | SQL / NoSQL, PostgreSQL, Redis |
-| **Infraestructura** | Docker, DevOps |
-| **Esotéricos (por diversión)** | APL / K / J, Prolog, Forth, Malbolge, Quantum Convict |
+| **Databases** | SQL / NoSQL, PostgreSQL, Redis |
+| **Infrastructure** | Docker, DevOps |
+| **Esoteric (for fun)** | APL / K / J, Prolog, Forth, Malbolge, Quantum Convict |
 
 ---
 
-### 🚀 Lo que construyo
+### 🚀 What I build
 
-- ▸ **APIs robustas y sistemas distribuidos** con Go y Rust
-- ▸ **Aplicaciones web full-stack** con TypeScript y Rails
-- ▸ **Pipelines de datos y scripting avanzado** con Python
-- ▸ **Interfaces modernas** con Tailwind CSS y componentes accesibles
-- ▸ **Arquitecturas de bases de datos** relacionales y no relacionales
+- ▸ **Robust APIs and distributed systems** with Go and Rust
+- ▸ **Full-stack web applications** with TypeScript and Rails
+- ▸ **Data pipelines and advanced scripting** with Python
+- ▸ **Modern interfaces** with Tailwind CSS and accessible components
+- ▸ **Database architectures**, relational and non-relational
 
 ---
 
-### 📊 Métricas y actividad
+### 📊 Metrics & Activity
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" width="500"/>
@@ -79,16 +79,16 @@ Desarrolladora full-stack con un enfoque **polyglot** — elijo la herramienta c
 
 ---
 
-### 🐶 Perritos cibernautas
+### 🐶 Cyber Astronaut Pups
 
 <p align="center">
-  <img src="./dogs.svg" width="100%" alt="perritos cibernautas"/>
+  <img src="./dogs.svg" width="100%" alt="cyber astronaut dogs"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Escribe código que te enorgullezca mantener dentro de un año."</i>
+  <i>"Write code you'll be proud to maintain a year from now."</i>
 </p>
 
 <p align="center">
