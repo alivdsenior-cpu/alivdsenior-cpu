@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alivdsenior-cpu
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Bogota
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 10
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          extras_css: |
+            body { background: #0a0510 !important; color: #f9d4e8 !important; }
+            .field, .value, .text, text, tspan { color: #f9d4e8 !important; fill: #f9d4e8 !important; }
+            rect.background, .background { fill: #0a0510 !important; }
+            a, h2, h2 * { color: #ec4899 !important; fill: #ec4899 !important; }
+            [fill="#ebedf0"], [fill="#EBEDF0"], [fill="#ffffff"], [fill="white"] { fill: #2a0f2e !important; }
